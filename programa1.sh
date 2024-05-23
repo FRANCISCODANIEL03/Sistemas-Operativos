@@ -1,3 +1,4 @@
+#Codigo que pide dos numeros y los suma
 echo "Dime un numero"
 read x
 echo "Dime otro numero"
