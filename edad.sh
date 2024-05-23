@@ -1,3 +1,4 @@
+#Codigo que pide la edad y te dice que aparentas
 echo "Dime tu edad"
 read x
 if [ $x -le 2 ]
