@@ -1,3 +1,4 @@
+#Codigo que analiza ciertos limite de numeros buscando las coincidencias deseadas
 echo "Ingrese un numero"
 read q
 a=1
