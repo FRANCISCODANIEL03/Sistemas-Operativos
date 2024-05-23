@@ -1,3 +1,4 @@
+#Codigo que calcula el factorial de un numero
 echo "ingresa un numero"
 read x
 a=1
