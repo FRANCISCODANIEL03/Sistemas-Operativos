@@ -1,3 +1,4 @@
+#Codigo que genera el numero de matricula de acuerdo a ciertas condiciones
 a=$(date +'%Y')
 echo "Ingresa tu periodo de inscripcion"
 echo "(1) Si vienes de otra institucion e ingresaste en febrero"
@@ -40,8 +41,8 @@ if [ $w -gt 2 ] || [ $w -lt 1 ]
        fi
       fi
      fi
-   fi
- fi
+    fi
+  fi
 fi
 
 
