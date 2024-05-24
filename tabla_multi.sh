@@ -1,3 +1,4 @@
+#Codigo que calcula una tabla de multiplicar
 echo "Dime un numero"
 read x
 a=1
