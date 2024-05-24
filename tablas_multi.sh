@@ -1,3 +1,4 @@
+#Codigo que calcula las tablas de multiplicar del 1 al 10
 a=1
 while [ $a -le 10 ]
  do
