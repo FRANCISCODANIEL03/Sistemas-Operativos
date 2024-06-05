@@ -1,3 +1,4 @@
+#Codigo que permite la conexion mediante la direccion MAC
 echo "Ingresa la direccion MAC a perimitir"
 read q
 echo "Permitiendo direccion MAC..."
