@@ -1,3 +1,4 @@
+#Codigo que restringe un rango de ip's
 echo "Ingresa la ip inicial del rango"
 read q
 echo "Ingresa la ip final del rango"
