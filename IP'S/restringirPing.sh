@@ -1,3 +1,4 @@
+#Codigo que restringe la conexion mediante ip
 echo "ingresa la ip a restringir"
 read q
 sudo /sbin/iptables -A INPUT -p icmp -s $q -j DROP
