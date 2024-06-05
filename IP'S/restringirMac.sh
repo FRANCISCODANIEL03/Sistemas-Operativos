@@ -1,3 +1,4 @@
+#Codigo que restringe la direccion MAC
 echo "Ingresa la direccion MAC a restringir"
 read q
 echo "Restringiendo direccion MAC..."
