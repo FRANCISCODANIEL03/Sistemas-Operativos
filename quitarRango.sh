@@ -1,3 +1,4 @@
+#Codigo que permite el rango de conexion mediante ip
 echo "Dame el segmento de red a trabajar"
 read x
 echo "Dime el numero del host inicial"
